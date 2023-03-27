@@ -282,6 +282,21 @@ and many more
 <div id="Exams"></div>
 
 ### Exams after Bsc CS for higher studies in Computer Science :
+Some of the Best Competitive Entrance exams :
+```
+- TIFR MSc + phd CS program (Tifr entrance exam)
+- CMI : MSc CS program (CMI entrance exam)
+- CMI : MSc DataScience program (CMI entrance exam)
+- IISER Pune - PHd in Data Science 
+- NISER MSc + PHd 
+- ISI - MS in QMS exam
+- NIT Trichy : MCA (NIMCET entrance exam)
+- NIT Warangal : MCA (NIMCET entrance exam)
+- NIT Surathkal : MCA (NIMCET entrance exam)
+- NIT Allahabad : MCA (NIMCET entrance exam)
+- IIT - MTech in Computer Science (GATE entrance exam)
+- IIT - MSc in Mathematics and COmputing (JAM entrance exam)
+```
 - MSc :
 ```
 - TIFR : MSc CS program (Tifr entrance exam)
@@ -329,7 +344,14 @@ and many more
 - TIFR : MSc + PHd CS program (Tifr entrance exam)
 - NISER : MSc + PHd CS program (NISER entrance exam)
 ```
-- Mtech in Computer Science
+- Mtech and MS Researcher in Computer Science
+<div align="center">
+ <table> <tbody>  <tr>   
+   <td align="left"> You can give GATE exam in the final semester of BSc , But you can take admission or apply for admission in below mention colleges after completing MSc or MCA porgram . </td> 
+ 
+ </tr> </tbody> </table> 
+ </div>
+ 
 ```
 GATE entrance exam in CS :
    - IIT Madras
@@ -363,7 +385,6 @@ GATE entrance exam in CS :
 
 and many more (almost every college accepts GATE rank for admission in MTech in CS)
 ```
-- MS Researcher in Computer Science
 - PHd
 ```
 - TIFR : PHd in Computer Science (TIFR entrance exam)
@@ -455,6 +476,8 @@ You must be skilled in :
 
 #
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
+Summary : If you think anything is wrong or anything you want mention in this Readme file, Feel free to create a issue and contribute in this Readme File.
 
 
 
