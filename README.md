@@ -282,12 +282,96 @@ and many more
 <div id="Exams"></div>
 
 ### Exams after Bsc CS for higher studies in Computer Science :
-- MSC
+- MSc :
+```
+- TIFR : MSc CS program (Tifr entrance exam)
+- CMI : MSc CS program (CMI entrance exam)
+- CMI : MSc DataScience program (CMI entrance exam)
+- ISI : MSc QMS (ISI entrance exam)
+- Indore School of CS : MSc CS (Indore School of CS entrance exam)
+- DU : MSc CS (DU entrance exam)
+- BHU : MSc CS (BHU entrance exam)
+- IIT - Bombay : MSc in OR (JAM MA entrance exam)
+- IIT - Guwahati : MSc in Mathematics and Computing (JAM MA entrance exam)
+- IIT - Hyderabad : MSc in Mathematics and Computing (JAM MA entrance exam)
+- IIT - Bhilai : MSc in Mathematics and Computing (JAM MA entrance exam)
+- IIT - Dhanbad : MSc in Mathematics and Computing (JAM MA entrance exam)
+- SAU New Delhi : MSc in CS
+- Pondicherry University  : MSc in CS
+- Central University of Rajasthan : MSc in CS
+- CUCET exam : MSc in CS
+```
 - MCA
-- MSC + Phd
-- Mtech
-- MS Researcher
-- MS from foreign Universities 
+```
+- NIT Trichy : MCA (NIMCET entrance exam)
+- NIT Warangal : MCA (NIMCET entrance exam)
+- NIT Surathkal : MCA (NIMCET entrance exam)
+- NIT Allahabad : MCA (NIMCET entrance exam)
+- NIT Bhopal : MCA (NIMCET entrance exam)
+- NIT Agartala : MCA (NIMCET entrance exam)
+- NIT Jamshedpur : MCA (NIMCET entrance exam)
+- NIT Raipur : MCA (NIMCET entrance exam)
+- DU : MCA (DU entrance exam)
+- BHU :  MCA (BHU entrance exam)
+- HCU : MCA (HCU entrance exam)
+- JNU : MCA (JNU entrance exam)
+- BIT Mesra : MCA (BIT Mesra entrance exam)
+- MAHCET : MCA (Mahcet entrance exam)
+- Indore School of CS : MCA (Indore School entrance exam)
+- IPU : MCA (IPU entrance exam)
+- TANCET : MCA (TANCET entrance exam)
+- VIT MEE : MCA (VIT entrance exam)
+- KIIT : MCA (KIIT entrance exam)
+```
+- MSc + Phd
+```
+- IIT - Bombay : MSc + PHd in OR (JAM entrance exam)
+- TIFR : MSc + PHd CS program (Tifr entrance exam)
+- NISER : MSc + PHd CS program (NISER entrance exam)
+```
+- Mtech in Computer Science
+```
+GATE entrance exam in CS :
+   - IIT Madras
+   - IIT Delhi
+   - IIT Bombay
+   - IIT Kanpur
+   - IIT Kharagpur
+   - IIT Roorkee
+   - IIT Guwahati
+   - NIT Trichy
+   - IIT Hyderabad
+   - IIT Indore
+   - NIT Warangal
+   - NIT Surathkal
+   - NIT Allahabad
+   - NIT Bhopal 
+   - NIT Agartala 
+   - NIT Jamshedpur
+   - NIT Raipur 
+   - Jadavpur University
+   - VIT Vellore
+   - IIT BHU
+   - ISM Dhanbad
+   - NIT Rourkela
+   - Anna University IIT Bhubaneswar
+   - ICT 
+   - Amrita Vishwa Vidyapeeth
+   - IIT Mandi
+   - IIT Gandhinagar
+   - IIT Jaipur
+
+and many more (almost every college accepts GATE rank for admission in MTech in CS)
+```
+- MS Researcher in Computer Science
+- PHd
+```
+- TIFR : PHd in Computer Science (TIFR entrance exam)
+- CMI : PHd in Computer Science (CMI entrance exam)
+- IISER Pune : PHd in Data Science (IISER entrance exam)
+- NISER
+```
+- MS in Computer Science from foreign Universities (Outside India) 
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
 
@@ -363,6 +447,7 @@ You must be skilled in :
   - DBMS
   - Networking
   - OOPs
+  - Software Engineering
   - Basics of System Design
 ```
 
