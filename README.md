@@ -28,7 +28,7 @@ Most of things are mention here are for students who want to pursue this undergr
 * <a href="#Extracurricular">Extracurricular activities</a>
    * <a href="#OpenSource">Open Source</a>
    * <a href="#Competitiveprogramming">Competitive Programming</a>
-   * <a href="#Intership">Intership</a>
+   * <a href="#Internship">Internship</a>
    * <a href="#Hackathon">Hackathon</a>
    * <a href="#Freelance">Freelance</a>
 * <a href="#Exams">Exams after Bsc CS for higher studies in Computer Science</a>
@@ -216,13 +216,13 @@ and many more
 ```
 
 <br>
-<div id="Intership"></div>
+<div id="Internship"></div>
 
 - Internship : 
 <br> You can participate in internships with companies or organizations to gain practical experience in your field of study. Internships provide an opportunity to work on real-world projects, learn from experienced professionals, and build a professional network. Many companies also offer paid internships, which can provide a source of income while you are still studying.
 <br> 
 
-Intterships Platforms :
+Internships Platforms :
 ```
 - Linkedin
 - Companies Official career websites 
