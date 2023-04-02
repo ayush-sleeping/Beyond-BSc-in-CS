@@ -26,6 +26,11 @@ Most of things are mention here are for students who want to pursue this undergr
 * <a href="#Best">Best Colleges to pursue BSc in CS in India</a>
 * <a href="#During">Important things to do in Bsc CS</a>
 * <a href="#Extracurricular">Extracurricular activities</a>
+   * <a href="#OpenSource">Open Source</a>
+   * <a href="#Competitiveprogramming">Competitive Programming</a>
+   * <a href="#Intership">Intership</a>
+   * <a href="#Hackathon">Hackathon</a>
+   * <a href="#Freelance">Freelance</a>
 * <a href="#Exams">Exams after Bsc CS for higher studies in Computer Science</a>
 * <a href="#Jobs">Most Common Jobs after Bsc CS </a>
 
@@ -155,6 +160,7 @@ These colleges have excellent faculty, resources, and infrastructure, and offer 
  </tr> </tbody> </table> 
  </div>
  
+ <div id="OpenSource"></div>
 - Open Source :
 <br>  You can contribute to open source projects and gain recognition and possibly earn money by participating in bug bounty programs.
 <br>
@@ -191,6 +197,7 @@ and many more
 
 ```
 <br>
+<div id="Competitiveprogramming"></div>
 
 - Competitive programming: 
 <br> You can participate in programming contests and earn money as a prize for winning.
@@ -209,6 +216,7 @@ and many more
 ```
 
 <br>
+<div id="Intership"></div>
 
 - Internship : 
 <br> You can participate in internships with companies or organizations to gain practical experience in your field of study. Internships provide an opportunity to work on real-world projects, learn from experienced professionals, and build a professional network. Many companies also offer paid internships, which can provide a source of income while you are still studying.
@@ -228,6 +236,7 @@ and many more
 ```
 
 <br>
+<div id="Hackathon"></div>
 
 - Hackathon :
 <br> You can participate in hackathons, which are events where teams of developers work together to create innovative solutions to a given problem or challenge. Hackathons can help you develop your problem-solving skills, learn new technologies, and build connections with other developers. 
@@ -243,6 +252,7 @@ and many more
 ```
 
 <br>
+<div id="Freelance"></div>
 
 - Freelance :
 You can use your programming skills to work on projects for clients and earn money as a freelancer. There are many platforms available, such as Upwork, Freelancer, and Fiverr, where you can find freelance programming projects.
