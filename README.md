@@ -161,6 +161,7 @@ These colleges have excellent faculty, resources, and infrastructure, and offer 
  </div>
  
  <div id="OpenSource"></div>
+ 
 - Open Source :
 <br>  You can contribute to open source projects and gain recognition and possibly earn money by participating in bug bounty programs.
 <br>
