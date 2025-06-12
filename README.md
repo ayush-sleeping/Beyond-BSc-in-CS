@@ -318,7 +318,7 @@ Some of the Best Competitive Entrance exams :
 - IIT - Hyderabad : M.Sc. in Mathematics and Computing (Mathematics for at least two years/four semesters) (JAM MA entrance exam)
 - IIT - Bhilai : M.Sc. in Mathematics and Computing (Mathematics for at least two years/four semesters) (JAM MA entrance exam)
 - IIT - Dhanbad : M.Sc. in Mathematics and Computing (Mathematics for at least two years/four semesters) (JAM MA entrance exam)
-- IIT Jodhpur	2404 : M.Sc. + M.Tech. Dual Degree in Mathematics‐Data & Computational Sciences	(Mathematics for at least two years/four semesters) (JAM MA entrance exam)
+- IIT - Jodhpur : M.Sc. + M.Tech. Dual Degree in Mathematics‐Data & Computational Sciences	(Mathematics for at least two years/four semesters) (JAM MA entrance exam)
 - ISI : MSc QMS (ISI entrance exam)
 - Indore School of CS : MSc CS (Indore School of CS entrance exam)
 - DU : MSc CS (DU entrance exam)
