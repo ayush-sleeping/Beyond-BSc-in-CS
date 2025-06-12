@@ -313,15 +313,16 @@ Some of the Best Competitive Entrance exams :
 - TIFR : MSc CS program (Tifr entrance exam)
 - CMI : MSc CS program (CMI entrance exam)
 - CMI : MSc DataScience program (CMI entrance exam)
+- IIT - Bombay : M.Sc. in Operations Research	MA	( No Restrictions ) (JAM MA entrance exam)
+- IIT - Guwahati : M.Sc. in Mathematics & Computing	(	Mathematics for at least two years/four semesters ) (JAM MA entrance exam)
+- IIT - Hyderabad : MSc in Mathematics and Computing ( MA	Mathematics for at least two years/four semesters ) (JAM MA entrance exam)
+- IIT - Bhilai : MSc in Mathematics and Computing ( MA	Mathematics for at least two years/four semesters ) (JAM MA entrance exam)
+- IIT - Dhanbad : MSc in Mathematics and Computing ( MA	Mathematics for at least two years/four semesters ) (JAM MA entrance exam)
+- IIT Jodhpur	2404 : M.Sc.‐ M.Tech. Dual Degree in Mathematics‐Data & Computational Sciences	( MA	Mathematics for at least two years/four semesters ) (JAM MA entrance exam)
 - ISI : MSc QMS (ISI entrance exam)
 - Indore School of CS : MSc CS (Indore School of CS entrance exam)
 - DU : MSc CS (DU entrance exam)
 - BHU : MSc CS (BHU entrance exam)
-- IIT - Bombay : MSc in OR (JAM MA entrance exam)
-- IIT - Guwahati : MSc in Mathematics and Computing (JAM MA entrance exam)
-- IIT - Hyderabad : MSc in Mathematics and Computing (JAM MA entrance exam)
-- IIT - Bhilai : MSc in Mathematics and Computing (JAM MA entrance exam)
-- IIT - Dhanbad : MSc in Mathematics and Computing (JAM MA entrance exam)
 - SAU New Delhi : MSc in CS
 - Pondicherry University  : MSc in CS
 - Central University of Rajasthan : MSc in CS
