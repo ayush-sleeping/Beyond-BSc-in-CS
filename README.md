@@ -293,20 +293,17 @@ and many more
 <div id="Exams"></div>
 
 ### Exams after Bsc CS for higher studies in Computer Science :
-Some of the Best Competitive Entrance exams :
+Some of the Best College Programs after BSc CS :
 ```
 - TIFR MSc + phd CS program (Tifr entrance exam)
 - CMI : MSc CS program (CMI entrance exam)
-- CMI : MSc DataScience program (CMI entrance exam)
+- IIT Collges - MTech in Computer Science (GATE entrance exam)
+- IIT Colleges- MSc in Mathematics and COmputing (JAM entrance exam)
 - IISER Pune - PHd in Data Science 
 - NISER MSc + PHd 
+- ISI - POST-GRADUATE DIPLOMA IN STATISTICAL METHODS AND ANALYTICS
 - ISI - MS in QMS exam
-- NIT Trichy : MCA (NIMCET entrance exam)
-- NIT Warangal : MCA (NIMCET entrance exam)
-- NIT Surathkal : MCA (NIMCET entrance exam)
-- NIT Allahabad : MCA (NIMCET entrance exam)
-- IIT - MTech in Computer Science (GATE entrance exam)
-- IIT - MSc in Mathematics and COmputing (JAM entrance exam)
+- NIT Collges: MCA (NIMCET entrance exam)
 ```
 - MSc :
 ```
